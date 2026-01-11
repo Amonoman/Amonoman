@@ -1,11 +1,11 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]  # Läuft täglich
-  workflow_dispatch:               # Manuell starten
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
@@ -15,10 +15,12 @@ jobs:
           filename: metrics.svg
           config_timezone: Europe/Berlin
 
-          # Plugins
+          # Standard-Plugins
           plugin_activity: yes
           plugin_languages: yes
           plugin_followup: yes
           plugin_repositories: yes
           plugin_traffic: no
           plugin_achievements: yes
+          plugin_stars: yes
+          plugin_stars_limit: 100
