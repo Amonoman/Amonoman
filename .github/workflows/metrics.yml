@@ -18,7 +18,7 @@ jobs:
           # Standard-Plugins
           plugin_activity: yes
           plugin_languages: yes
-          plugin_followup: yes
+          plugin_followup: no
           plugin_repositories: yes
           plugin_traffic: no
           plugin_achievements: yes
