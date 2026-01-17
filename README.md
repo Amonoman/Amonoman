@@ -1,4 +1,4 @@
-# Moin/Hi 🫃
+# Moin/Hi
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 ![Metrics](./metrics.svg)
