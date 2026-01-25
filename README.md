@@ -3,6 +3,6 @@
 # GitHub Stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amonoman&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=2B5BBD&text_color=FFFFFF&bg_color=000000&hide_border=true" />
 
-<img align="center" src="https://ghstats.onuralpsezer.com?user=Amonoman&hide_border=true&background=000000&ring=2B5BBD&fire=2B5BBD&currStreakLabel=2B5BBD&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+<img align="center" src="https://ghstats.onuralpsezer.com?user=Amonoman&hide_border=true&background=000000&ring=2B5BBD&fire=2B5BBD&currStreakLabel=FF0000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amonoman&layout=compact&hide_border=true&bg_color=000000&title_color=2B5BBD&text_color=FFFFFF" />
